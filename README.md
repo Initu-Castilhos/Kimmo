@@ -1,2 +1,3 @@
 # Kimmo
-Nova proposta para o Tema Kimmo
+
+New proposal for Kimmo theme
